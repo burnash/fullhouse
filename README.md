@@ -1,3 +1,3 @@
 # fullhouse
 
-Nice python library coming soon.
+Yet another asset pipeline library coming soon.
